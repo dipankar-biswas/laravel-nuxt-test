@@ -1,0 +1,3 @@
+<template>
+    product Page
+</template>
